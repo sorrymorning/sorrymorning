@@ -1,9 +1,9 @@
 <h1 align="center">Привет! Я Амир 👋</h1>
 
-- 🌱 Сейчас изучаю: Machine Learning, Python, Data Science
-- 👨‍💻 Последний проект: [Название проекта](ссылка)
-- 🧰 Использую: Python, Pandas, NumPy, Scikit-Learn, C++
-- 🔭 Увлекаюсь алгоритмами, системным программированием, графикой
+- 🌱 Сейчас изучаю: Python, Django, Data Science
+- 👨‍💻 Последний проект: [JobHunt](https://github.com/sorrymorning/JobHunt)
+- 🧰 Использую: Python, Pandas, Scikit-Learn
+- 🔭 ...
 
 ---
 
@@ -15,5 +15,5 @@
 ---
 
 ### 📫 Как связаться
-- Email: `example@example.com`
-- Telegram: [@твой_ник](https://t.me/твой_ник)
+- Email: `aakmetgalievr@gmail.com`
+- Telegram: [@realkilu](https://t.me/realkilu)
