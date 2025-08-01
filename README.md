@@ -9,8 +9,8 @@
 
 ### 📈 Статистика
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ТВОЙ_ЮЗЕРНЕЙМ&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ТВОЙ_ЮЗЕРНЕЙМ&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sorrymorning&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sorrymorning&layout=compact&theme=radical)
 
 ---
 
